@@ -1,4 +1,4 @@
-<img width="1537" height="866" alt="page1-exec overview" src="https://github.com/user-attachments/assets/f78f69d5-ce77-43d9-b31e-c80ee9af8b04" /># Retail sales KPI Dasboard (SQL + Power BI)
+# Retail sales KPI Dasboard (SQL + Power BI)
 
 ## OVERVIEW
 This project analyses over 500k+ retail transactions from a kaggle dataset and builds a KPI and returns risk dashboard.
